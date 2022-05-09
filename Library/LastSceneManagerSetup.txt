@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Uduino/Examples/Advanced/ReadSensor/ReadSensor.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
